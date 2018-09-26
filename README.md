@@ -1,4 +1,4 @@
-# CZ2001-Algorithms
+# cz2001-algorithms
 
 
 ## Lab 3A - Empirical comparison between Insertion sort and Mergesort
