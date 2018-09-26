@@ -1,7 +1,7 @@
 # cz2001-algorithms
 
 
-## Lab 3A - Empirical comparison between Insertion sort and Mergesort
+### Lab 3A - Empirical comparison between Insertion sort and Mergesort
 
 ```
 The objective for this lab is to perform empirical comparison of time efficiency between the two sorting algorithms, namely Insertion Sort and Mergesort. For simplicity, suppose the input data are arrays of integers and the algorithms should sort the integers into ascending order.
@@ -21,7 +21,7 @@ In this lab, the following steps need to be carried out:
 ```
 
 
-## Lab 4B - Application of BFS to flight scheduling
+### Lab 4B - Application of BFS to flight scheduling
 
 ```
 Construct an undirected graph to represent non-stop airline flights between cities in the world (a hypothetical graph for Asia Pacific is given below). In your graph, please add more cities and flights to make it more realistic. It should contain at least one pair of cities, between which there is no non-stop flight, but there is a route (or path) between them.
